@@ -66,7 +66,7 @@ detour = "直连DIRECT"
 [[inbounds]]#socks4, socks4a, socks5 和 http代理
 type = "mixed"
 tag = "mixed-in"
-listen = "0.0.0.0"
+listen = "0.0.0.0" #怕被偷流量可以换成127.0.0.1
 listen_port = 2080
 set_system_proxy = true #仅支持 Linux、Android、Windows 和 macOS。启动时自动设置系统代理，停止时自动关闭。
 
