@@ -89,7 +89,7 @@
           "password": "admin"
         }
       ],
-      "set_system_proxy": true
+      "set_system_proxy": false
     },
     {
       "type": "tun",
