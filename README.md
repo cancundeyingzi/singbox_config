@@ -4,4 +4,6 @@
 ![{4C0EB611-3C28-456d-9F45-8238371D0127}](https://github.com/cancundeyingzi/singbox_config/assets/73635883/b673d256-e7f5-4e70-aa0e-f4098a5e4bc9)
 
 
-提醒,添加线路(4个线路或者更多)的时候,别只加了"outbounds".忘记后面还有九个地方要加..别忘记这种有九处![image](https://github.com/cancundeyingzi/singbox_config/assets/73635883/d1609426-0459-4617-967b-63cf77dbe639)
+提醒,添加线路(4个线路或者更多)的时候,别只加了"outbounds".忘记后面还有九个地方要加..别忘记这种有九处!
+
+[image](https://github.com/cancundeyingzi/singbox_config/assets/73635883/d1609426-0459-4617-967b-63cf77dbe639)
