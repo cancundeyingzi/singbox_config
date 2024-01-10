@@ -68,7 +68,7 @@ type = "mixed"
 tag = "mixed-in"
 listen = "0.0.0.0" #怕被偷流量可以换成127.0.0.1
 listen_port = 2080
-set_system_proxy = true #仅支持 Linux、Android、Windows 和 macOS。启动时自动设置系统代理，停止时自动关闭。
+set_system_proxy = false #仅支持 Linux、Android、Windows 和 macOS。启动时自动设置系统代理，停止时自动关闭。(实测安卓14开不了,有root也不行singbox1.8)
 
 [[inbounds.users]] # 代理的密码,不要密码这三行可以直接删了
 username = "admin"
